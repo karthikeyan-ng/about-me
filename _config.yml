@@ -60,4 +60,4 @@ plugins:
  - jekyll-seo-tag
 
 # Dark Mode
-darkmode: trye (options: true, false, never)
+darkmode: true #(options: true, false, never)
