@@ -29,8 +29,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   My name's Karthikeyan and I'm a Senior Java developer and Solution Architect.
 
-  I am Karthikeyan from Chennai, Tamil Nadu, India. I have 11.8 years of experience in Information and Communication Technology (ICT). I am an enthusiastic developer, passion to do coding by using <mark>Java8+</mark>, <mark>J2EE</mark>, <mark>Spring Ecosystem</mark> and <mark>Open-source frameworks</mark> where I am mainly part of. On top of the above said base skills I have also worked in Microservices architecture by applying 12 factor application terminologies. Also, I worked in the following cloud platforms Pivotal Cloud Foundry (PCF), Azure DevOps (Repos, Pipelines), Amazon Web Services (EC2, S3, BeanStalk, Code Commit, Code Build, Code Deploy, Code Pipeline, Cloud Watch, Lambda, API Gateway).
+  I am from Chennai, Tamil Nadu, India. I have 11.8 years of experience in Information and Communication Technology (ICT). I am an enthusiastic developer, passion to do coding by using <mark>Java8+</mark>, <mark>J2EE</mark>, <mark>Spring Ecosystem</mark> and <mark>Open-source</mark> frameworks where I am mainly part of. 
+  
+  On top of the above said base skills I have also worked in <mark>Microservices architecture</mark> by applying <mark>12 factor application</mark> terminologies. Also, I worked in the following cloud platforms <mark>Pivotal Cloud Foundry (PCF)</mark>, <mark>Azure DevOps (Repos, Pipelines)</mark>, <mark>Amazon Web Services (EC2, S3, BeanStalk, Code Commit, Code Build, Code Deploy, Code Pipeline, Cloud Watch, Lambda, API Gateway)</mark>.
 
+  With more than 10+ years of experience and various tools and technologies I can provide solutions for your business problem as well as mentoring the team members to develop a product or an application. Aspiration to learn Spark, Scala, Kotlin languages in near future. Futuristic vision is to learn AI and ML.
 
 # Projects Section
 # projects_title: Projects
@@ -44,11 +47,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in trending technologies and software engineering some of my other interests and hobbies are:
+   - Watching YouTube tech contents and other useful tips and tricks
+   - Carrom
+   - Listening to Music (Ilayaraja & AR Rahman)
 
 # Footer
 footer_show_references: true
