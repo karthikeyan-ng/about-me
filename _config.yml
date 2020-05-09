@@ -25,9 +25,12 @@ xing_username: Karthikeyan_Nithiyanandam2
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello,
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  My name's Karthikeyan and I'm a Senior Java developer and Solution Architect.
+
+  I am Karthikeyan from Chennai, Tamil Nadu, India. I have 11.8 years of experience in Information and Communication Technology (ICT). I am an enthusiastic developer, passion to do coding by using <mark>Java8+</mark>, <mark>J2EE</mark>, <mark>Spring Ecosystem</mark> and <mark>Open-source frameworks</mark> where I am mainly part of. On top of the above said base skills I have also worked in Microservices architecture by applying 12 factor application terminologies. Also, I worked in the following cloud platforms Pivotal Cloud Foundry (PCF), Azure DevOps (Repos, Pipelines), Amazon Web Services (EC2, S3, BeanStalk, Code Commit, Code Build, Code Deploy, Code Pipeline, Cloud Watch, Lambda, API Gateway).
+
 
 # Projects Section
 # projects_title: Projects
