@@ -17,8 +17,36 @@
     - title: Software Analyst
       dates: August 2015 - September 2019
   quote: >
-   Providing solutions to their existing applications, applications re-architect, and rewrite the existing application in SpringBoot with Java8 for PCF deployment.
+   Provided solutions to their existing applications, applications re-architect, and rewrite the existing application in SpringBoot using Java8 for PCF deployment.
   description: | # this will include new lines to allow paragraphs
     Description of role
 
+- layout: left
+  company: Cognizant Technology Solutions India
+  link: https://www.cognizant.com/
+  job_title: Associate Projects
+  dates: January 2012 - August 2015
+  quote: >
+    Senior Java Developer | Team Lead : Provided solutions for Auto and Home Insurance related application as per U.S. regulations.
+  description: | # this will include new lines to allow paragraphs
+    Description of role
 
+- layout: left
+  company: Emergys Software India
+  link: https://www.emergys.co.in/
+  job_title: Software Engineer
+  dates: November 2010 - January 2012
+  quote: >
+    Java Developer: Provided solutions for Healthcare and Patent Management System related application as per U.S. regulations.
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+
+- layout: left
+  company: Scientific Publishing Services India
+  link: https://www.sps.co.in/
+  job_title: Software Engineer
+  dates: August 2008 - November 2010
+  quote: >
+    Provided solutions for internal publishing related application.
+  description: | # this will include new lines to allow paragraphs
+    Description of role
