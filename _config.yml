@@ -29,15 +29,102 @@ about_content: | # this will include new lines to allow paragraphs
 
   My name's Karthikeyan and I'm a Senior Java developer and Solution Architect.
 
-  I am from Chennai, Tamil Nadu, India. I have 11.8 years of experience in Information and Communication Technology (ICT). I am an enthusiastic developer, passion to do coding by using <mark>Java8+</mark>, <mark>J2EE</mark>, <mark>Spring Ecosystem</mark> and <mark>Open-source</mark> frameworks where I am mainly part of. 
+  I am from Chennai, Tamil Nadu, India. I have 11.8 years of experience in Information and Communication Technology (ICT). I am an enthusiastic developer, passion to do coding by using <b>Java8+</b>, <b>J2EE</b>, <b>Spring Ecosystem</b> and <b>Open-source</b> frameworks where I am mainly part of. 
   
-  On top of the above said base skills I have also worked in <mark>Microservices architecture</mark> by applying <mark>12 factor application</mark> terminologies. Also, I worked in the following cloud platforms <mark>Pivotal Cloud Foundry (PCF)</mark>, <mark>Azure DevOps (Repos, Pipelines)</mark>, <mark>Amazon Web Services (EC2, S3, BeanStalk, Code Commit, Code Build, Code Deploy, Code Pipeline, Cloud Watch, Lambda, API Gateway)</mark>.
+  On top of the above said base skills I have also worked in <b>Microservices architecture</b> by applying <b>12 factor application</b> terminologies. Also, I worked in the following cloud platforms <b>Pivotal Cloud Foundry (PCF)</b>, <b>Azure DevOps (Repos, Pipelines)</b>, <b>Amazon Web Services (EC2, S3, BeanStalk, Code Commit, Code Build, Code Deploy, Code Pipeline, Cloud Watch, Lambda, API Gateway)</b>.
 
   With more than 10+ years of experience and various tools and technologies I can provide solutions for your business problem as well as mentoring the team members to develop a product or an application. Aspiration to learn Spark, Scala, Kotlin languages in near future. Futuristic vision is to learn AI and ML.
 
   During my tenure at Ford Bank IT, Germany (via Ford India), I got an opportunity to lead a small team for major application redesign and mentoring team members in a positive spirit to complete the product and launched on time. Because of that, I got more visibility in the leader's level in Germany and UK. Also, I visited Cologne, Germany in the year 2016 for architecture redesign.
 
   Currently, I am working for Rabobank, Netherlands (via Cognizant – Digital Engineering Practice India) for their <b>Tribe:</b> Payments <b>Area:</b> Accounts Administration and Association for Sales and Services department related application. I am playing as a Senior Java Developer + Technical Lead role for this Area.
+
+  <p><b><u>Business Portfolio:</u></b></p>
+  <ul>
+    <li>Banking Products (Payment Accounts Area)</li>
+    <li>Vehicle Financing (for Car Dealers as per German Regulations)</li>
+    <li>Insurance (for Auto and Home products as per U.S Regulations)</li>
+    <li>Healthcare (for Hospital Management products as per U.S hospitals Compliant)</li>
+  </ul>
+
+  <p><b><u>References:</u></b></p>
+  <p>During my tenure at Ford Bank IT, Germany (via Ford India) I was reporting to Mr. Pascal, IT Lead in Germany and his <a href="https://www.xing.com/profile/Pascal_Krahmer/">Xing</a> details.</p>
+
+  <p><b><u>Technical Certifications:</u></b></p>
+  <ul>
+    <li>Oracle Certified Java Programer 6 (OCJP 6)</li>
+    <li>M001: MongoDB Basics from MongoDB University</li>
+    <li><a href="https://github.com/karthikeyan-ng/e-learnings-certificate_udemy">List of learnings and course completion certificate</a></li>
+  </ul>
+
+  <p><b><u>Technology Skills:</u></b></p>
+  <ul>
+    <li><b><u>Programming Language:</u></b> Java 8 and 11 | Groovy</li>
+    <li><b><u>Spring Ecosystem:</u></b> Advance knowledge of applying various Spring concepts Core, Beans, Web, AOP</li>
+    <li><b><u>Spring Boot Modules:</u></b>
+      <ul>
+        <li><b>Developer Tools:</b> Spring Boot DevTools | Lombok | MapStruct</li>
+        <li><b>Web:</b> Spring Web | Spring HATEOAS</li>
+        <li><b>Security:</b> FormBased | JWT | OAuth 2.0</li>
+        <li><b>SQL:</b> JDBC API | Spring Data JPA | Flyway Migration | JOOQ Access Layer | H2 | MySQL Driver | MS SQL Driver | Oracle Driver</li>
+        <li><b>NoSQL:</b> Spring Data Redis (Access + Driver) | Spring Data MongoDB</li>
+        <li><b>OPS:</b> Spring Boot Actuator, Micrometer</li>
+        <li><b>Messaging:</b> Spring for RabbitMQ</li>
+        <li><b>Spring Cloud Contract Testing:</b> Contract Verifier | Contract Stub Runner</li>
+        <li><b>Spring Cloud Config:</b> Config Client | Config Server</li>
+        <li><b>Spring Cloud Discovery:</b> Eureka Discovery Client | Eureka Server | Cloud Foundry Discovery</li>
+        <li><b>Spring Cloud Routing:</b> Zuul | Ribbon | Gateway | OpenFeign</li>
+        <li><b>Spring Cloud Circuit Breaker:</b> Hystrix | Hystrix Dashboard</li>
+        <li><b>Spring Cloud Tracing:</b> Sleuth</li>
+        <li><b>Pivotal Cloud Foundry:</b> Cloud Config | Service Registry | Circuit Breaker</li>
+      </ul>
+    </li>
+    <li>Hands-on knowledge on creating Enterprise level Restful services using
+      <ul>
+        <li><b>Open API 3</b> (using YAML)</li>
+        <li><b>Swagger UI</b> (using Annotations)</li>
+      </ul>
+    </li>
+    <li><b><u>JPA 2.x / Hibernate:</u></b> Advance knowledge of creating Entities using Annotations</li>
+    <li><b><u>Cloud Platforms:</u></b>
+      <ul>
+        <li><b>Pivotal Cloud Foundry:</b> Hands-on knowledge on developing and deploying cloud-native applications (Microservices) on Pivotal Cloud Foundry (PCF).</li>
+        <li><b>Microsoft Azure:</b> Repos | Pipeline</li>
+        <li><b>Amazon Web Services (AWS):</b> EC2, S3, EBS, RDS, Code Pipeline, Code Commit, Code Build, Cloud Watch, Lambda, API Gateway</li>
+      </ul>
+    </li>
+    <li><b>Development Principals:</b> Design Pattern, SOLID, DRY, KISS</li>
+    <li><b>Development Operating System:</b> MacBook | Windows 10</li>
+    <li><b>Development Methodology:</b> Agile, Waterfall</li>
+    <li><b>Agile Tools:</b> JIRA, Confluence, FunRetro, Rally</li>
+    <li><b>Build Tools:</b> Maven, Gradle</li>
+    <li><b>Source Control:</b> Git, GitHub, BitBucket, Azure Repositories, AccuRev</li>
+    <li><b>Continuous Integration and Deployment:</b> Jenkins, Azure Pipelines, IBM UBuild and UDeploy</li>
+    <li><b>Artifact Management:</b> Nexus</li>
+    <li><b>Code Quality Tools:</b> Sonar Qube, Sonar Lint, PMD, Checkstyle</li>
+    <li><b>IDE for Development:</b> IntelliJ IDEA, Spring Tools Suite, Eclipse, IBM RAD</li>
+    <li><b>Application / Web Servers:</b> Oracle WebLogic, IBM WebSphere, Apache Tomcat</li>
+    <li><b>Containerization:</b> Docker</li>
+    <li><b>API Testing Automation:</b> REST Assured, Cucumber BDD, Spring Cloud Contract, Selenium (Basic)</li>
+    <li><b>Testing Frameworks:</b> Junit 4 | 5 (Jupiter), Mockito, Hamcrest Matchers</li>
+    <li><b>Testing Tools:</b> SOAP UI, Postman, Swagger UI</li>
+    <li><b>UML:</b> Enterprise Architect, draw.io, Visio</li>
+    <li><b>RDBMS:</b> DB2, SQL Server, MySQL, Oracle</li>
+    <li><b>NoSQL:</b> MongoDB, Redis</li>
+    <li><b>Service Oriented Architecture (SOA):</b> JAX-WS, JAXB, SOAP, WSDL</li>
+    <li><b>XML Technology:</b> XML, XSD, XSLT, XPATH</li>
+    <li><b>Web Technologies:</b> HTML5, JS, JQuery, CSS (Basic), Angular 6, PrimeNG</li>
+    <li><b>Other Info:</b>
+      <ul>
+        <li>Able to write application document using <b>Markdown (md)</b> file format</li>
+        <li>Good implementation knowledge on creating application architecture - HLD | LLD | DBD</li>
+        <li>Good analytical and problem-solving skills.</li>
+        <li>Able to do Pair | Mob programming. Remote collaboration using web tools (WebEx, Skype, Teams, Zoom)</li>
+        <li>Able to work independently without managerial supervision.</li>
+        <li>Passion to learn new technology or language by exploring on myself to keep up to date as per industry trending.</li>
+      </ul>
+    </li>
+  </ul>
 
 # Projects Section
 # projects_title: Projects
@@ -70,4 +157,4 @@ plugins:
  - jekyll-seo-tag
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
