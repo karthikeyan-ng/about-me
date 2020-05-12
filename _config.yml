@@ -27,7 +27,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello,
 
-  My name's Karthikeyan and I'm a Senior Java developer and Solution Architect.
+  My name's Karthikeyan and I'm a Senior Java developer and Solution Architect. You can download my CV in <a href="https://github.com/karthikeyan-ng/about-me/cv/KN_CV.docx">.docx</a> format.
 
   I am from Chennai, Tamil Nadu, India. I have 11.8 years of experience in Information and Communication Technology (ICT). I am an enthusiastic developer, passion to do coding by using <b>Java8+</b>, <b>J2EE</b>, <b>Spring Ecosystem</b> and <b>Open-source</b> frameworks where I am mainly part of. 
   
